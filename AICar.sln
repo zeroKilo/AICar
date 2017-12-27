@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LevelEditor", "LevelEditor\LevelEditor.csproj", "{D76E22D0-DDE2-4355-A89D-286EA64B45DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AICar", "AICar\AICar.csproj", "{A13A1B46-BD5C-41B8-8F63-B998303A5723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIPlayer", "AIPlayer\AIPlayer.csproj", "{3DFC8F44-F7DF-4190-84E4-0E1AF919054E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76E22D0-DDE2-4355-A89D-286EA64B45DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76E22D0-DDE2-4355-A89D-286EA64B45DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76E22D0-DDE2-4355-A89D-286EA64B45DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76E22D0-DDE2-4355-A89D-286EA64B45DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13A1B46-BD5C-41B8-8F63-B998303A5723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13A1B46-BD5C-41B8-8F63-B998303A5723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13A1B46-BD5C-41B8-8F63-B998303A5723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13A1B46-BD5C-41B8-8F63-B998303A5723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFC8F44-F7DF-4190-84E4-0E1AF919054E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFC8F44-F7DF-4190-84E4-0E1AF919054E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFC8F44-F7DF-4190-84E4-0E1AF919054E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFC8F44-F7DF-4190-84E4-0E1AF919054E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

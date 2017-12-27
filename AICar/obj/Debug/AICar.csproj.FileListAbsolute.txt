@@ -1,0 +1,5 @@
+D:\CODE\c#\AICar\AICar\bin\Debug\AICar.dll
+D:\CODE\c#\AICar\AICar\bin\Debug\AICar.pdb
+D:\CODE\c#\AICar\AICar\obj\Debug\AICar.csprojResolveAssemblyReference.cache
+D:\CODE\c#\AICar\AICar\obj\Debug\AICar.dll
+D:\CODE\c#\AICar\AICar\obj\Debug\AICar.pdb
